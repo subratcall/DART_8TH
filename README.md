@@ -2,4 +2,13 @@
 2021년 1학기 다트 8기 활동 관련 저장소
 
 ### 세션
- - 모의투자[Bag of Beta - Random Forest 활용 단기 방향성 예측](/mock_investing/2021DART_모의투자_Bag_of_Beta.pdf)
+ - 모의투자 
+    * [Bag of Beta - Random Forest 활용 단기 방향성 예측](/mock_investing/2021DART_모의투자_Bag_of_Beta.pdf)
+ - 다트 레포트 
+    * [2020 경매이론을 차용한 공모주 청약 방식 제안서](/report/2020_경매이론을_차용한_공모주_청약_방식_제안서.pdf)
+ - 프로젝트
+    * [매크로 지표를 활용한 퀀트 기반 코스피 예측 모델(진행중)](/)
+
+### 강의
+ - 21.04.08 [백테스트](/backtest_0408/21_04_08_백테스트_ipynb의_사본.ipynb)
+ - 21.05.20 [인공지능(진행중)](/)
